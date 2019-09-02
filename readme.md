@@ -1,6 +1,6 @@
 # Das Internet-of-Things-Spiel
 
-Dies ist das Repository zum "Internet-of-Things-Spiel", das von der Abteilung Didaktik der Informatik an der Universität Oldenburg in starker Anlehnung an das Internetspiel des Pakets [IT2School](www.it2school.de) der [Wissensfabrik](www.wissensfabrik.de) entwickelt wurde.
+Dies ist das Repository zum "Internet-of-Things-Spiel", das von der Abteilung Didaktik der Informatik an der Universität Oldenburg in starker Anlehnung an das Internetspiel des Pakets [IT2School](https://www.it2school.de) der [Wissensfabrik](https://www.wissensfabrik.de) entwickelt wurde.
 
 
 | Datei | Inhaltsbeschreibung |
